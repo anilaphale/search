@@ -191,7 +191,7 @@ table tr:nth-child(2n+1) {
 .webdesigntuts-workshop:after {
 	background: #000;
 	background: linear-gradient(left, #151515, #000, #151515);	
-	top: 191px;
+	top: 300px;
 }
 
 .webdesigntuts-workshop form {

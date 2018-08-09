@@ -188,12 +188,6 @@ table tr:nth-child(2n+1) {
 	top: 192px;
 }
 
-.webdesigntuts-workshop:after {
-	background: #000;
-	background: linear-gradient(left, #151515, #000, #151515);	
-	top: 300px;
-}
-
 .webdesigntuts-workshop form {
 	background: #111;
 	background: linear-gradient(#1b1b1b, #111);

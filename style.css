@@ -172,15 +172,6 @@ table tr:nth-child(2n+1) {
 }
 
 .webdesigntuts-workshop:before,
-.webdesigntuts-workshop:after {
-	content: '';
-	display: block;	
-	height: 1px;
-	left: 50%;
-	margin: 0 0 0 -400px;
-	position: absolute;
-	width: 800px;
-}
 
 .webdesigntuts-workshop:before {
 	background: #444;
